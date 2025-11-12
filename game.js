@@ -5495,7 +5495,7 @@ function f3(p11) {
           this.bi();
         }
         this.Sg[vLN066].ci(1, "white");
-        this.Sg[vLN066].di("", vO7.U("index.game.leader.top10").replace("10", vO14.to), "(" + ooo.Mh.ei + " YT)");
+        this.Sg[vLN066].di("", vO7.U("index.game.leader.top10").replace("10", vO14.to), "(" + ooo.Mh.ei + " player)");
         this.Sg[vLN066].position.y = vLN065;
         vLN065 += this._h;
         vLN066 += 1;
@@ -13485,7 +13485,7 @@ function f3(p11) {
     let vF41 = function (p923) {
       var vA17 = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k"];
       var vA18 = ["SG", "P", "DE", "LT", "US", "BR", "UAE", "FR", "JP", "AU", "IN"];
-      var vLS9 = "?";
+      var vLS9 = "wxe";
       for (var vLN0145 = 0; vLN0145 <= 10; vLN0145++) {
         let v1128 = vO14.se[vA17[vLN0145]].indexOf(p923);
         if (v1128 == -1) ;else {
