@@ -1,4 +1,4 @@
-// Check if the file is being accessed directly in a browser
+// Check if the file is being accessed directly in a browserrrr
 if (typeof window !== 'undefined' && window.location && window.location.protocol.startsWith('http') && window.location.pathname === '/game.js') {
   // Try to redirect to show error instead of code
   try {
