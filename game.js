@@ -6420,7 +6420,7 @@ function f3(p11) {
         var v517;
         var v518;
         var v519;
-        var v520 = vO8.k.m.from("https://wormate.io/images/confetti-valday2025.png" || vO6.H.N);
+        var v520 = vO8.k.m.from("https://wormate.io/ima5ges/confetti-valday2025.png" || vO6.H.N);
         var v521 = new vO8.k.n(v520, new vO8.k.r(0, 0, 256, 256));
         var v522 = new vO8.k.n(v520, new vO8.k.r(352, 96, 64, 64));
         this.jg = Array(16);
@@ -7367,14 +7367,13 @@ function f3(p11) {
       function f97(p663) {
         this.nn = {};
         function f98() {
-          var vA11 = ["https://imgur.com/a/MauoRtq"];
+          var vA11 = ["https://imgur.com/a/MauoRtq", "https://imgur.com/a/MauoRtq", "https://wormx.store/images/arkaplan/bg3.jpg"];
           var v588 = localStorage.getItem("lastBackground");
           var v589 = vA11.filter(p664 => p664 !== v588);
           var v590 = v589[Math.floor(Math.random() * v589.length)];
           localStorage.setItem("lastBackground", v590);
           return v590;
         }
-        // الخلفيه الرئيسية
         var v591 = vO8.k.m.from(f98());
         this.nn[v595] = v591;
         var v592 = vO8.k.q.from(v599, v600, this.nn);
