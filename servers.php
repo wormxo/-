@@ -3017,12 +3017,12 @@
         },
         {
             "id": 44,
-            "name": "Tik/YT 👑 01",
+            "name": "𝑫𝒂𝒓𝒌 💥  𝑿𝒐 👑 01",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32053\/wormy",
             "status": 1,
             "wormworld": 0,
-            "image": "https://i.imgur.com/n2CisKY.jpeg",
+            "image": "https://imgur.com/NNRcoRx.jpeg",
             "imageUrl": "",
             "timmap": 1
         },
