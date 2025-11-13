@@ -2995,23 +2995,23 @@
         },
         {
             "id": 46,
-            "name": "#MANO# 👑 03",
+            "name": "MALBORO 👑 03",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32609\/wormy",
             "status": 1,
-            "image": "https://wormup.in/api/servers/images/67d2efa00a117.png",
+            "image": "https://i.imgur.com/zGrbkJa.jpeg",
             "wormworld": 0,
             "timmap": 3,
             "imageUrl": ""
         },
         {
             "id": 45,
-            "name": "MALBORO👑 02",
+            "name": "TIK/YT 👑 02",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32103\/wormy",
             "status": 1,
             "wormworld": 0,
-            "image": "https://i.imgur.com/zGrbkJa.jpeg",
+            "image": "https://i.imgur.com/n2CisKY.jpeg",
             "timmap": 2,
             "imageUrl": ""
         },
