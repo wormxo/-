@@ -7367,13 +7367,14 @@ function f3(p11) {
       function f97(p663) {
         this.nn = {};
         function f98() {
-          var vA11 = ["https://wormx.store/images/arkaplan/bg1.jpg", "https://wormx.store/images/arkaplan/bg2.jpg", "https://wormx.store/images/arkaplan/bg3.jpg"];
+          var vA11 = ["https://imgur.com/a/MauoRtq"];
           var v588 = localStorage.getItem("lastBackground");
           var v589 = vA11.filter(p664 => p664 !== v588);
           var v590 = v589[Math.floor(Math.random() * v589.length)];
           localStorage.setItem("lastBackground", v590);
           return v590;
         }
+        // الخلفيه الرئيسية
         var v591 = vO8.k.m.from(f98());
         this.nn[v595] = v591;
         var v592 = vO8.k.q.from(v599, v600, this.nn);
